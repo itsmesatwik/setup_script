@@ -8,5 +8,5 @@ A single script for setting up everything for a terminal
 chmod +x run_this.sh
 ./run_this.sh
 ```
-* Clean up `cd ..` `rm -rf run_this.sh`
+* Clean up `cd ..` `rm -rf setup_script`
 * Enjoy
